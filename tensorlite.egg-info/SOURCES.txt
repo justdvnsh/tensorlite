@@ -1,0 +1,8 @@
+README.md
+setup.py
+src/__init__.py
+src/tensorlite.py
+tensorlite.egg-info/PKG-INFO
+tensorlite.egg-info/SOURCES.txt
+tensorlite.egg-info/dependency_links.txt
+tensorlite.egg-info/top_level.txt
